@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "OpenSans";
+  src:
+    url("./assets/OpenSans.woff2") format("woff2 supports variations"),
+    url("./assets/OpenSans.woff2") format("woff2-variations");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "OpenSans";
+}
